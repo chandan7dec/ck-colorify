@@ -1,1 +1,1 @@
-# ck colorigy library
+# ck colorify library
