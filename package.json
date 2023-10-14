@@ -1,0 +1,29 @@
+{
+  "name": "ck-colorify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandan7dec/ck-colorify.git"
+  },
+  "keywords": [
+    "console log color",
+    "colorify log"
+  ],
+  "author": "chandan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chandan7dec/ck-colorify/issues"
+  },
+  "homepage": "https://github.com/chandan7dec/ck-colorify#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "files": ["lib/**/*"]
+}
